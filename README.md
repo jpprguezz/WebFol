@@ -1,2 +1,2 @@
 # WebFol
-Web hecha durante los días de asistencia obligatoria estando en las prácticas de dual en la empresa.
+Web hecha durante los días de asistencia al centro durante las prácticas de 1ºDAW.
